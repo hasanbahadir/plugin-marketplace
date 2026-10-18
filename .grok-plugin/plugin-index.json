@@ -1138,6 +1138,24 @@
         ]
       }
     },
+    "soorgla": {
+      "sha": "776f7f4a404b398c5ed0ec03af0876b7e10db4d7",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "soorgla",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "soorgla",
+            "description": "Research Turkish law with the Soorgla MCP server: find Turkish court decisions (Yargıtay, Danıştay, Anayasa Mahkemesi,…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "ad3c5817e5c95fc71c3efcbdece25e7b331bb052",
       "version": "0.9.20",
